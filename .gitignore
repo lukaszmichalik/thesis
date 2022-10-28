@@ -152,9 +152,7 @@ cython_debug/
 #.idea/
 
 # Dataset folder
-/dataset
-/thesis_images
-/graphics
+/tiff_files
 
 # Test notebooks
 /test_notebooks
