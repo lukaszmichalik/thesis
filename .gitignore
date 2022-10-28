@@ -153,9 +153,11 @@ cython_debug/
 
 # Dataset folder
 /dataset
-
-# Dataset folder
 /thesis_images
+/graphics
+
+# Test notebooks
+/test_notebooks
 
 # word temp files
 ~$*
